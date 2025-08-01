@@ -9,8 +9,8 @@
     "category": "Human Resources",
     "depends": ["hr"],
     "data": ["views/hr_tools_view.xml"],
-    "installable": true,
-    "application": true,
-    "price": 79.00,
-    "currency": "USD"
+    # "installable": true,
+    # "application": true,
+    # "price": 79.00,
+    # "currency": "USD"
 }
