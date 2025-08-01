@@ -12,6 +12,6 @@
     # 'image':
     # "installable": true,
     # "application": true,
-    "price": 79.00,
+    "price": 79999.00,
     "currency": "USD"
 }
