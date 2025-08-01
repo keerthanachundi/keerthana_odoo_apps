@@ -8,5 +8,6 @@
     'data': ['views/sample_model_views.xml'],
     'installable': True,
     'application': True,
+    'images': ['static/description/banner.png'],
     'auto_install': False
 }
